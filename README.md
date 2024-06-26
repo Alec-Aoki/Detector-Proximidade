@@ -14,7 +14,7 @@ Fizemos um detector de proximidade, similar a um alarme de ré de um  carro.
 | 1x              | Buzzer Ativo 20         | R$10,00 |
 | 12x             | Jumpers Macho-Macho     | R$9,00  |
 | 1x              | Protoboard              | R$21,00 |
-| 1x              | Arduino                 | R$0,00  |
+| 1x              | Arduino                 |   ---   |
 | 1x              | Sensor Ultrassônico     | R$16,00 |
 | TOTAL           |                         | R$59,70 |
 
@@ -119,7 +119,6 @@ void loop() {
   delay(1000);
 }
 ```
-
 
 ## Vídeo
 https://www.youtube.com/watch?v=H0zxSMPzldY
